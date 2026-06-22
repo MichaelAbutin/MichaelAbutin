@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelAbutin
 - 👀 I’m interested in furthering my skills in programming in teams
-- 🌱 I’m currently learning how to use Github as well as taking a course in full-stack web development
+- 🌱 I’m currently trying to gain experience with the github workflow
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me @michaelabutin05@gmail.com
 - 😄 Pronouns: He/Him
